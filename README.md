@@ -1,7 +1,7 @@
 # ELEC2101K - 计算机编程
 <!-- TOML-META: repo_type="normal" -->
 
-韩方授课，全英文，课程内容为为**C++编程**的学习。包含32学时的理论课与16学时的实验课。
+韩方授课，全英文，课程内容为**C++编程**的学习。包含32学时的理论课与16学时的实验课。
 实验课在学校机房（可以自带笔记本电脑）使用VSCode等IDE工具进行C++编程。
 实验课为本校教师&助教进行授课。
 学生一般不会与教师进行直接的互动，而是通过助教进行沟通。
@@ -33,4 +33,4 @@
 
 <!-- TOML-ITEM: id="item-学习资料-1" -->
 
-• 教材: 《C++ Programming:An Object-Oriented Approach》
+- 教材: 《C++ Programming: An Object-Oriented Approach》
